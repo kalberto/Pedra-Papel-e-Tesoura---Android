@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="humano_0">Humano: 0</string>
+    <string name="_0_cpu">0 : CPU</string>
+</resources>
